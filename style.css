@@ -20,6 +20,7 @@ body{
 }
 .footer-ip{
     color: rgb(37, 121, 93);
+    font-size: 1.1em;
 }
 @media only screen and (min-width: 768px){
     .footer-ip{
