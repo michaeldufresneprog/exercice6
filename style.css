@@ -18,3 +18,13 @@ body{
 .entry .entry-title:before{
     width: 0;
 }
+.footer-ip{
+    color: rgb(37, 121, 93);
+}
+@media only screen and (min-width: 768px){
+    .footer-ip{
+        max-width: 80%;
+        margin: 0 10%;
+        padding: 0 60px;
+    }
+}
