@@ -33,4 +33,7 @@ body{
     .site-title:not(:empty) + .site-description:not(:empty):before{
         margin: 1em;
     }
+    .footer-ip{
+        padding: 1em;
+    }
 }
