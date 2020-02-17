@@ -29,3 +29,8 @@ body{
         padding: 0 60px;
     }
 }
+@media only screen and (max-width: 600px){
+    .site-title:not(:empty) + .site-description:not(:empty):before{
+        margin: 1em;
+    }
+}
